@@ -12,8 +12,8 @@
 ### Introduction
 This repository contains two key projects focusing on Natural Language Processing (NLP):
 
-1. **Character Text Generation**: Training a character language model to predict the next character in a sequence and generate new text sequences.
-2. **Text Pre-processing and Features**: Exploring text pre-processing techniques and feature extraction methods, including Bag of Words (BoW), TF-IDF, and manual word embeddings.
+1. **Character Text Generation**: Training a character language model to predict the next character in a sequence and generate new text sequences. (Nov-Dec 2023)
+2. **Text Pre-processing and Features**: Exploring text pre-processing techniques and feature extraction methods, including Bag of Words (BoW), TF-IDF, and manual word embeddings. (Nov-Dec 2023)
 
 ### Installation
 To use the projects in this repository, ensure you have Python installed along with Jupyter Notebooks or JupyterLab. Follow these steps:
