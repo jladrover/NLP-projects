@@ -12,6 +12,7 @@ This repository contains two key projects focusing on Natural Language Processin
 
 1. **Character Text Generation**: Training a character language model to predict the next character in a sequence and generate new text sequences. (Nov-Dec 2023)
 2. **Text Pre-processing and Features**: Exploring text pre-processing techniques and feature extraction methods, including Bag of Words (BoW), TF-IDF, and manual word embeddings. (Nov-Dec 2023)
+3. **POS Tagger**: POS tagging with hidden markov model, optimized by the viterbi algorithm
 
 ### Installation
 To use the projects in this repository, ensure you have Python installed along with Jupyter Notebooks or JupyterLab. Follow these steps:
@@ -49,6 +50,9 @@ This notebook explores various text pre-processing methods and features extracti
 * Bag of Words and TF-IDF representations.
 * Using Scikit-learn and NLTK for text processing.
 * Manual extraction of word embeddings through dimension reduction.
+
+** POS Tagger
+For more regarding the subject, please read the following article: https://medium.com/analytics-vidhya/parts-of-speech-pos-and-viterbi-algorithm-3a5d54dfb346
 
 ### Requirements
 - Python 3.x
