@@ -4,9 +4,7 @@
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Character Text Generation](#character-text-generation)
-  - [Text Pre-processing and Features](#text-pre-processing-and-features)
-- [Dependencies](#dependencies)
+- [Dependencies](#requirements)
 
 
 ### Introduction
