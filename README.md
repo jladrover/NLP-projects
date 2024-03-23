@@ -51,7 +51,7 @@ This notebook explores various text pre-processing methods and features extracti
 * Using Scikit-learn and NLTK for text processing.
 * Manual extraction of word embeddings through dimension reduction.
 
-** POS Tagger
+**POS Tagger**
 For more regarding the subject, please read the following article: https://medium.com/analytics-vidhya/parts-of-speech-pos-and-viterbi-algorithm-3a5d54dfb346
 
 ### Requirements
