@@ -1,7 +1,7 @@
 
 ----------HOW TO RUN-----------------------------------------------------------------
 
-run `python postagger.py` in terminal with the necessary data in the working dir
+run `python postagger.py` in terminal with the necessary data in the working dir and installed python version
 
 
 ----------HOW OOV ITEMS WERE HANDLED------------------------------------------------------
